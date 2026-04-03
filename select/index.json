@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Goodbye Love",
+  "base_artist": "Cosmoslay",
+  "createdAt": "2026-04-03T11:48:54.506384Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Goodbye Love",
+      "artist": "Guy",
+      "has_synced": false,
+      "path": "select/01_Goodbye_Love_Guy.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Goodbye Love",
+      "artist": "The Steve Miller Band",
+      "has_synced": false,
+      "path": "select/02_Goodbye_Love_The_Steve_Miller_Band.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Goodbye Love",
+      "artist": "Steve Miller",
+      "has_synced": false,
+      "path": "select/03_Goodbye_Love_Steve_Miller.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Goodbye Love",
+      "artist": "The Manhattan Transfer",
+      "has_synced": true,
+      "path": "select/04_Goodbye_Love_The_Manhattan_Transfer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Goodbye Love",
+      "artist": "The Manhattan Transfer",
+      "has_synced": false,
+      "path": "select/05_Goodbye_Love_The_Manhattan_Transfer.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Goodbye Love",
+      "artist": "Car Seat Headrest",
+      "has_synced": true,
+      "path": "select/06_Goodbye_Love_Car_Seat_Headrest.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Goodbye Love",
+      "artist": "Steve Miller Band",
+      "has_synced": true,
+      "path": "select/07_Goodbye_Love_Steve_Miller_Band.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Goodbye Love",
+      "artist": "Geordie",
+      "has_synced": false,
+      "path": "select/08_Goodbye_Love_Geordie.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Goodbye Love Song",
+      "artist": "Royal Bliss",
+      "has_synced": true,
+      "path": "select/09_Goodbye_Love_Song_Royal_Bliss.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Goodbye Love",
+      "artist": "Rent Original Broadway Cast",
+      "has_synced": false,
+      "path": "select/10_Goodbye_Love_Rent_Original_Broadway_Cast.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Goodbye Love",
+      "artist": "Original Broadway Cast",
+      "has_synced": false,
+      "path": "select/11_Goodbye_Love_Original_Broadway_Cast.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hello Heartache, Goodbye Love",
+      "artist": "Peggy March",
+      "has_synced": true,
+      "path": "select/12_Hello_Heartache,_Goodbye_Love_Peggy_March.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hello Heartache, Goodbye Love",
+      "artist": "Little Peggy March",
+      "has_synced": true,
+      "path": "select/13_Hello_Heartache,_Goodbye_Love_Little_Peggy_March.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Goodbye Love",
+      "artist": "Guy",
+      "has_synced": false,
+      "path": "select/14_Goodbye_Love_Guy.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Goodbye Love",
+      "artist": "Daphne Rubin-Vega feat. Adam Pascal, Taye Diggs, Idina Menzel, Fredi Walker, Anthony Rapp & Jesse L. Martin",
+      "has_synced": true,
+      "path": "select/15_Goodbye_Love_Daphne_Rubin-Vega_feat._Adam_Pascal,_Taye_Diggs,_Idina_Menzel,_Fredi_Walker,_Ant.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Goodbye Love",
+      "artist": "Daphne Rubin‐Vega, Adam Pascal, Taye Diggs, Idina Menzel, Fredi Walker, Anthony Rapp & Jesse L. Martin",
+      "has_synced": true,
+      "path": "select/16_Goodbye_Love_Daphne_Rubin‐Vega,_Adam_Pascal,_Taye_Diggs,_Idina_Menzel,_Fredi_Walker,_Anthony_.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Goodbye Love",
+      "artist": "CRÈME",
+      "has_synced": true,
+      "path": "select/17_Goodbye_Love_CRÈME.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Goodbye Love",
+      "artist": "Rent",
+      "has_synced": false,
+      "path": "select/18_Goodbye_Love_Rent.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Goodbye Love",
+      "artist": "Cosmoslay",
+      "has_synced": false,
+      "path": "select/pl_01_Goodbye_Love_Cosmoslay.txt"
+    }
+  ]
+}
